@@ -1,0 +1,53 @@
+Name,Brand,Model,Processor,RAM,Storage,Graphics,Display_Size,Display_Resolution,Operating_System,Price,Img
+Dell Inspiron 15 5000,Dell,Inspiron 15 5000,Intel Core i5-1135G7,8GB,256GB SSD,Intel Iris Xe Graphics,15.6 inches,1920 x 1080,Windows 10 Home,699.99,dell_inspiron_15_5000.jpg
+HP Pavilion 15,HP,HP Pavilion 15,AMD Ryzen 5 5500U,12GB,512GB SSD,AMD Radeon Graphics,15.6 inches,1920 x 1080,Windows 11 Home,799.99,hp_pavilion_15.jpg
+Apple MacBook Air (M1),Apple,MacBook Air (M1),Apple M1 Chip,8GB,256GB SSD,Apple M1 Graphics,13.3 inches,2560 x 1600,macOS Monterey,999.99,apple_macbook_air_m1.jpg
+Lenovo ThinkPad X1 Carbon Gen 9,Lenovo,ThinkPad X1 Carbon Gen 9,Intel Core i7-1165G7,16GB,512GB SSD,Intel Iris Xe Graphics,14 inches,2560 x 1440,Windows 10 Pro,1499.99,lenovo_thinkpad_x1_carbon_gen9.jpg
+Asus ROG Zephyrus G14,Asus,ROG Zephyrus G14,AMD Ryzen 9 5900HS,16GB,1TB SSD,NVIDIA GeForce RTX 3060,14 inches,2560 x 1440,Windows 11 Home,1699.99,asus_rog_zephyrus_g14.jpg
+Acer Aspire 5 Slim,Acer,Aspire 5 Slim,AMD Ryzen 3 3200U,4GB,128GB SSD,AMD Radeon Vega 3,15.6 inches,1920 x 1080,Windows 10 in S Mode,399.99,acer_aspire_5_slim.jpg
+MSI GS66 Stealth,MSI,GS66 Stealth,Intel Core i7-11800H,32GB,1TB SSD,NVIDIA GeForce RTX 3080,15.6 inches,1920 x 1080,Windows 11 Pro,2499.99,msi_gs66_stealth.jpg
+Lenovo Legion 5,Lenovo,Legion 5,AMD Ryzen 7 5800H,16GB,512GB SSD,NVIDIA GeForce RTX 3050 Ti,15.6 inches,1920 x 1080,Windows 10 Home,1299.99,lenovo_legion_5.jpg
+HP Envy x360,HP,Envy x360,AMD Ryzen 7 5700U,16GB,512GB SSD,AMD Radeon Graphics,13.3 inches,1920 x 1080,Windows 11 Home,1199.99,hp_envy_x360.jpg
+Dell XPS 13,Dell,XPS 13,Intel Core i7-1165G7,16GB,512GB SSD,Intel Iris Xe Graphics,13.4 inches,1920 x 1200,Windows 10 Home,1399.99,dell_xps_13.jpg
+Apple MacBook Pro (M1),Apple,MacBook Pro (M1),Apple M1 Chip,16GB,512GB SSD,Apple M1 Pro Graphics,13.3 inches,2560 x 1600,macOS Monterey,1999.99,apple_macbook_pro_m1.jpg
+Lenovo IdeaPad 3,Lenovo,IdeaPad 3,Intel Core i3-1115G4,8GB,256GB SSD,Intel UHD Graphics,15.6 inches,1920 x 1080,Windows 11 Home,499.99,lenovo_ideapad_3.jpg
+Acer Predator Helios 300,Acer,Predator Helios 300,Intel Core i7-11800H,16GB,512GB SSD,NVIDIA GeForce RTX 3060,15.6 inches,1920 x 1080,Windows 11 Home,1399.99,acer_predator_helios_300.jpg
+Microsoft Surface Laptop 4,Microsoft,Surface Laptop 4,AMD Ryzen 5 4680U,8GB,256GB SSD,AMD Radeon Graphics,13.5 inches,2256 x 1504,Windows 10 Home,999.99,microsoft_surface_laptop_4.jpg
+Dell G15 Gaming Laptop,Dell,G15 Gaming Laptop,AMD Ryzen 7 5800H,16GB,512GB SSD,NVIDIA GeForce RTX 3060,15.6 inches,1920 x 1080,Windows 11 Home,1299.99,dell_g15_gaming_laptop.jpg
+HP Spectre x360,HP,Spectre x360,Intel Core i7-1165G7,16GB,512GB SSD,Intel Iris Xe Graphics,13.3 inches,1920 x 1080,Windows 11 Home,1599.99,hp_spectre_x360.jpg
+Asus VivoBook 15,Asus,VivoBook 15,AMD Ryzen 5 5500U,8GB,512GB SSD,AMD Radeon Graphics,15.6 inches,1920 x 1080,Windows 11 Home,699.99,asus_vivobook_15.jpg
+Lenovo Legion 7,Lenovo,Legion 7,AMD Ryzen 9 5900HX,32GB,1TB SSD,NVIDIA GeForce RTX 3080,16 inches,2560 x 1600,Windows 11 Pro,2999.99,lenovo_legion_7.jpg
+Apple MacBook Pro 16-inch (M1 Pro),Apple,MacBook Pro 16-inch (M1 Pro),Apple M1 Pro Chip,16GB,512GB SSD,Apple M1 Pro Graphics,16 inches,3072 x 1920,macOS Monterey,2499.99,apple_macbook_pro_16_m1_pro.jpg
+Acer Chromebook Spin 713,Acer,Chromebook Spin 713,Intel Core i5-10210U,8GB,128GB SSD,Intel UHD Graphics,13.5 inches,2256 x 1504,Chrome OS,599.99,acer_chromebook_spin_713.jpg
+MSI Prestige 14,MSI,Prestige 14,Intel Core i7-1185G7,16GB,1TB SSD,Intel Iris Xe Graphics,14 inches,1920 x 1080,Windows 11 Pro,1599.99,msi_prestige_14.jpg
+HP Omen 15,HP,Omen 15,Intel Core i7-10750H,16GB,512GB SSD,NVIDIA GeForce RTX 3060,15.6 inches,1920 x 1080,Windows 10 Home,1499.99,hp_omen_15.jpg
+Dell Alienware m15 R5,Dell,Alienware m15 R5,AMD Ryzen 9 5900HX,16GB,512GB SSD,NVIDIA GeForce RTX 3070,15.6 inches,1920 x 1080,Windows 10 Home,2199.99,dell_alienware_m15_r5.jpg
+Lenovo Yoga 9i,Lenovo,Yoga 9i,Intel Core i7-1185G7,16GB,1TB SSD,Intel Iris Xe Graphics,14 inches,3840 x 2160,Windows 11 Home,1799.99,lenovo_yoga_9i.jpg
+Microsoft Surface Pro 8,Microsoft,Surface Pro 8,Intel Core i5-1145G7,8GB,256GB SSD,Intel Iris Xe Graphics,13 inches,2880 x 1920,Windows 11 Home,999.99,microsoft_surface_pro_8.jpg
+Acer Swift 3,Acer,Swift 3,AMD Ryzen 7 5700U,8GB,512GB SSD,AMD Radeon Graphics,14 inches,1920 x 1080,Windows 11 Home,799.99,acer_swift_3.jpg
+Asus TUF Gaming A15,Asus,TUF Gaming A15,AMD Ryzen 5 4600H,8GB,512GB SSD,NVIDIA GeForce GTX 1650,15.6 inches,1920 x 1080,Windows 10 Home,799.99,asus_tuf_gaming_a15.jpg
+Lenovo ThinkBook 14s,Lenovo,ThinkBook 14s,Intel Core i7-1165G7,16GB,512GB SSD,Intel Iris Xe Graphics,14 inches,1920 x 1080,Windows 10 Pro,1099.99,lenovo_thinkbook_14s.jpg
+HP Chromebook x360,HP,Chromebook x360,Intel Core i3-1115G4,8GB,64GB eMMC,Intel UHD Graphics,14 inches,1920 x 1080,Chrome OS,449.99,hp_chromebook_x360.jpg
+Dell Precision 5560,Dell,Precision 5560,Intel Core i7-11850H,16GB,512GB SSD,NVIDIA Quadro T1200,15.6 inches,1920 x 1200,Windows 10 Pro,1899.99,dell_precision_5560.jpg
+Apple MacBook Pro 13-inch (M1),Apple,MacBook Pro 13-inch (M1),Apple M1 Chip,8GB,256GB SSD,Apple M1 Graphics,13.3 inches,2560 x 1600,macOS Monterey,1299.99,apple_macbook_pro_13_m1.jpg
+Lenovo IdeaPad Flex 5,Lenovo,IdeaPad Flex 5,AMD Ryzen 5 5500U,16GB,512GB SSD,AMD Radeon Graphics,14 inches,1920 x 1080,Windows 11 Home,749.99,lenovo_ideapad_flex_5.jpg
+Asus ZenBook 14,Asus,ZenBook 14,Intel Core i5-1135G7,8GB,512GB SSD,Intel Iris Xe Graphics,14 inches,1920 x 1080,Windows 11 Home,899.99,asus_zenbook_14.jpg
+Acer Nitro 5,Acer,Nitro 5,Intel Core i5-11400H,8GB,512GB SSD,NVIDIA GeForce RTX 3050,15.6 inches,1920 x 1080,Windows 11 Home,899.99,acer_nitro_5.jpg
+MSI Creator 15,MSI,Creator 15,Intel Core i7-10870H,32GB,1TB SSD,NVIDIA GeForce RTX 3060,15.6 inches,1920 x 1080,Windows 10 Pro,1999.99,msi_creator_15.jpg
+HP Elite Dragonfly,HP,Elite Dragonfly,Intel Core i5-1135G7,16GB,512GB SSD,Intel Iris Xe Graphics,13.3 inches,1920 x 1080,Windows 10 Pro,1999.99,hp_elite_dragonfly.jpg
+Dell Latitude 7320,Dell,Latitude 7320,Intel Core i7-1185G7,16GB,512GB SSD,Intel Iris Xe Graphics,13.3 inches,1920 x 1200,Windows 11 Pro,1899.99,dell_latitude_7320.jpg
+Lenovo Legion Slim 7,Lenovo,Legion Slim 7,AMD Ryzen 7 5800H,16GB,1TB SSD,NVIDIA GeForce RTX 3070,15.6 inches,1920 x 1080,Windows 11 Home,1999.99,lenovo_legion_slim_7.jpg
+Microsoft Surface Laptop Go,Microsoft,Surface Laptop Go,Intel Core i5-1035G1,8GB,128GB SSD,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S Mode,599.99,microsoft_surface_laptop_go.jpg
+Dell Vostro 14 3400,Dell,Vostro 14 3400,Intel Core i5-1135G7,8GB,256GB SSD,Intel Iris Xe Graphics,14 inches,1920 x 1080,Windows 10 Pro,699.99,dell_vostro_14_3400.jpg
+HP Pavilion x360,HP,Pavilion x360,Intel Core i3-1115G4,8GB,256GB SSD,Intel UHD Graphics,14 inches,1920 x 1080,Windows 11 Home,549.99,hp_pavilion_x360.jpg
+Asus ROG Strix G15,Asus,ROG Strix G15,AMD Ryzen 7 5800H,16GB,512GB SSD,NVIDIA GeForce RTX 3050 Ti,15.6 inches,1920 x 1080,Windows 11 Home,1299.99,asus_rog_strix_g15.jpg
+Acer TravelMate P6,Acer,TravelMate P6,Intel Core i7-1165G7,16GB,512GB SSD,Intel Iris Xe Graphics,14 inches,1920 x 1080,Windows 10 Pro,1299.99,acer_travelmate_p6.jpg
+MSI Modern 14,MSI,Modern 14,Intel Core i5-1135G7,8GB,512GB SSD,Intel Iris Xe Graphics,14 inches,1920 x 1080,Windows 10 Home,799.99,msi_modern_14.jpg
+Lenovo ThinkPad T14,Lenovo,ThinkPad T14,AMD Ryzen 5 5500U,16GB,512GB SSD,AMD Radeon Graphics,14 inches,1920 x 1080,Windows 11 Pro,1099.99,lenovo_thinkpad_t14.jpg
+HP ProBook 450 G8,HP,ProBook 450 G8,Intel Core i5-1135G7,8GB,256GB SSD,Intel Iris Xe Graphics,15.6 inches,1920 x 1080,Windows 10 Pro,899.99,hp_probook_450_g8.jpg
+Dell Precision 3560,Dell,Precision 3560,Intel Core i7-1165G7,16GB,512GB SSD,Intel Iris Xe Graphics,15.6 inches,1920 x 1080,Windows 10 Pro,1399.99,dell_precision_3560.jpg
+Apple iPad Air (4th Gen),Apple,iPad Air (4th Gen),Apple A14 Chip,64GB,NA,NA,10.9 inches,2360 x 1640,iPadOS 15,599.99,apple_ipad_air_4.jpg
+Lenovo Yoga 6,Lenovo,Yoga 6,AMD Ryzen 5 4650U,8GB,256GB SSD,AMD Radeon Graphics,13.3 inches,1920 x 1080,Windows 10 Home,799.99,lenovo_yoga_6.jpg
+Asus Chromebook Flip C434,Asus,Chromebook Flip C434,Intel Core m3-8100Y,4GB,64GB eMMC,Intel HD Graphics,14 inches,1920 x 1080,Chrome OS,499.99,asus_chromebook_flip_c434.jpg
+Acer Spin 5,Acer,Spin 5,Intel Core i7-1165G7,16GB,512GB SSD,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,1099.99,acer_spin_5.jpg
+MSI GS76 Stealth,MSI,GS76 Stealth,Intel Core i9-11900H,32GB,1TB SSD,NVIDIA GeForce RTX 3080,17.3 inches,1920 x 1080,Windows 11 Pro,3299.99,msi_gs76_stealth.jpg
