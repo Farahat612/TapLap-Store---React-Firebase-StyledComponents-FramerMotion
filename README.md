@@ -14,6 +14,11 @@ TapLap Store is a modern, responsive online store application built with React a
 
 You can access a live demo [here](https://taplapstore.netlify.app/), or you may watch the following video demo:
 
+
+https://github.com/Farahat612/TapLap-Store---React-Firebase-StyledComponents-FramerMotion/assets/67427124/4fb7bc66-ec02-4fd7-b1bf-5f6309fc52e4
+
+
+
 ## Technologies Used
 
 - [React](https://reactjs.org/)
