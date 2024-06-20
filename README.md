@@ -47,6 +47,10 @@ https://github.com/Farahat612/TapLap-Store---React-Firebase-StyledComponents-Fra
 - `.eslintrc.cjs`: ESLint configuration file
 - `vite.config.js`: Vite configuration file
 
+## Project Architecture Diagram
+![tap-store](https://github.com/Farahat612/TapLap-Store---React-Firebase-StyledComponents-FramerMotion/assets/67427124/3d240d9a-c02a-41fd-a679-22f7731989aa)
+
+
 ## Skills nad Techniques Covered
 
 - Context Reducer state management.
